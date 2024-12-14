@@ -27,5 +27,5 @@ Atualmente, estou focado em:
 
 ## 📫 Vamos Conectar!
 - **LinkedIn**: [Giovanny Lira]([linkedin.com/in/giovanny-lira-1b8912233](https://www.linkedin.com/in/giovanny-lira-1b8912233))
-- **E-mail**: [giovanny@araujo29@gmail.com](mailto:giovanny@araujo29@gmail.com)
+- **E-mail**: [giovannyaraujo29@gmail.com](mailto:giovannyaraujo29@gmail.com)
 
