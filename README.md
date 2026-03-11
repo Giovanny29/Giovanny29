@@ -1,10 +1,3 @@
-Boa ideia ajustar isso agora 👍
-Mantive tudo que você já tinha, **adicionei Go**, **Django**, e algumas coisas que você realmente usa/estudou (como **Tailwind, SQL**) sem colocar **Java, Spring Boot ou Gin**.
-
-Segue uma **versão limpa e coerente**:
-
----
-
 # Olá, eu sou Giovanny Lira! 👋
 
 Seja bem-vindo ao meu espaço no GitHub! Sou estudante de **Engenharia da Computação** e um desenvolvedor entusiasta, sempre buscando aprender e evoluir. Tenho interesse em entender profundamente como sistemas são construídos e em desenvolver soluções eficientes utilizando diferentes tecnologias.
